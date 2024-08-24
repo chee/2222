@@ -8,4 +8,4 @@
 	:components ((:file "2222"))
 	:build-operation "program-op"
 	:build-pathname "2222"
-	:entry-point "2222:◬2222◬")
+	:entry-point "2222:∴2222∴")
